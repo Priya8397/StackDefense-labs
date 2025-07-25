@@ -24,3 +24,6 @@ This project is a long-term, professional lab environment designed to learn, tes
 ## 🎯 Why This Exists
 
 To build a reusable, modular, cloud-ready lab that grows as I learn — and becomes a real portfolio to share with recruiters, on LinkedIn, or in interviews.
+
+<!-- TODO: Add folder structure and quick links once lab modules are ready -->
+
